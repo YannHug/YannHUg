@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Développeur Php/Symfony Junior
+
+A la recherche d'un stage suite formation chez O'Clock.
+
 <!--
 **YannHug/YannHUg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
