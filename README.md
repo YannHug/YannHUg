@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-Je m'aventure dans le monde du développement, à mon niveau.
-
-J'espère pouvoir un jour en faire un métier.
-
 <!--
 **YannHug/YannHUg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
